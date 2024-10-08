@@ -1,21 +1,15 @@
 # Kantox
 
-**TODO: Add description**
+> This is a standalone project that serves as a technical assessment.
 
-## Installation
+## Compilation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `kantox` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:kantox, "~> 0.1.0"}
-  ]
-end
+```
+$ mix check
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/kantox>.
+## Test
 
+```
+$ mix test
+```
